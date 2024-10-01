@@ -13,7 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/avayar"
+            android:src="@drawable/avatar"
             tools:ignore="ContentDescription" />
 
         <TextView
@@ -23,7 +23,7 @@
             android:layout_marginStart="70dp"
             android:layout_marginBottom="90dp"
             android:fontFamily="sans-serif"
-            android:text="Giang"
+            android:text="Phong"
             android:textColor="@color/white"
             android:textSize="40sp" />
         <ImageView
@@ -67,7 +67,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="@string/txt_title_mobile"
+                android:text=""
                 android:textColor="@color/gray_mid"
                 android:textSize="18sp" />
 
@@ -82,7 +82,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="@string/txt_title_mobile"
+                android:text=""
                 android:textColor="@color/gray_mid"
                 android:textSize="18sp" />
             <View
@@ -113,14 +113,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="giang@gmail.com"
+                android:text="phong@gmail.com"
                 android:textColor="@color/gray_dark"
                 android:textSize="20sp" />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="@string/txt_title_mobile"
+                android:text=""
                 android:textColor="@color/gray_mid"
                 android:textSize="18sp" />
         </LinearLayout>
